@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../ConsoleUI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PersistenceStorage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../VehicleRegisterApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>
